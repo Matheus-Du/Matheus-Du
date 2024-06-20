@@ -1,6 +1,6 @@
 ## Matheus Duncan 🛰️
 <div id="contact">
-  <a href="https://matheusdu.dev">
+  <a href="https://matheusdu.dev" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20Site-084C61" alt="Personal Site"/></a>
   <a href="https://www.linkedin.com/in/matheus-duncan">
     <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/></a>
