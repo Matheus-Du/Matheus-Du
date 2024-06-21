@@ -51,7 +51,7 @@
 ### 📖 Currently Reading
 
 <a href="https://hypermedia.systems"><img src="https://m.media-amazon.com/images/I/61M+Q2B2PkL._SY445_SX342_.jpg" height="200"/></a>&nbsp;
-<a href="[https://news.ycombinator.com/item?id=40698442](https://mitpress.mit.edu/9780262547482/building-simcity/)"><img src="https://m.media-amazon.com/images/I/81eAzGlpahL._SY425_.jpg" height="200"/></a>&nbsp;
+<a href="https://mitpress.mit.edu/9780262547482/building-simcity/"><img src="https://m.media-amazon.com/images/I/81eAzGlpahL._SY425_.jpg" height="200"/></a>&nbsp;
 <a href="https://www.crackingthecodinginterview.com/"><img src="https://m.media-amazon.com/images/I/410hiaPGyCL._SY445_SX342_.jpg" height="200"/></a>&nbsp;
 <a href="https://github.com/Web-Prolog/swi-web-prolog/blob/master/book/web-prolog.pdf"><img src="https://github.com/Matheus-Du/Matheus-Du/assets/20523379/c449f329-086b-4c6e-be2b-f0dcf9be7d78" height="200" /></a>
 
